@@ -115,5 +115,5 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
-<hr>
+<hr> 
 Path found: ['A', 'E', 'D', 'G']
